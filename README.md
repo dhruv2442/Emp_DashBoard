@@ -1,5 +1,5 @@
 # Employee Dashboard
-   ![image](src/images/EmployeeDashboard.png)
+   ![image](src/images/EmployeeDashBoard.png)
 
    # live Demo :- [Employee DashBoard ↗️](https://empdashboard.netlify.app/)
 
